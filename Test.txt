@@ -1,3 +1,4 @@
-Git Discussion
+Git DiscussionD
 Is it Conflict, 
 if yes fix it
+Conflict should be fixed

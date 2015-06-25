@@ -1,1 +1,2 @@
 Git Discussion
+Conflict should be fixed

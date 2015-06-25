@@ -1,1 +1,3 @@
 Git Discussion
+Is it Conflict, 
+if yes fix it
